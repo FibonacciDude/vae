@@ -7,6 +7,8 @@ and other variants:
   
   *https://arxiv.org/pdf/1706.02262.pdf
   
+  *https://arxiv.org/pdf/1608.01230.pdf
+
   *others more!
   
 
