@@ -1,4 +1,4 @@
-Variational Autoencoders
+ Variational Autoencoders (with CNNs!)
 
 This implements the vae from https://arxiv.org/pdf/1312.6114.pdf. 
 Variational calculus (for probabilities) was very strange,
